@@ -33,7 +33,8 @@
   @livewireScripts
 
   {{-- @livewire('counter') --}}
-  @livewire('realtime-input')
+  {{-- @livewire('realtime-input') --}}
+  @livewire('todos')
 </body>
 
 </html>
